@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF74E55A1BB7461D00222733 /* CirculoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF74E5591BB7461D00222733 /* CirculoView.swift */; settings = {ASSET_TAGS = (); }; };
 		FFAB328F1BB71A820085AEC8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB328E1BB71A820085AEC8 /* AppDelegate.swift */; };
 		FFAB32911BB71A820085AEC8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB32901BB71A820085AEC8 /* ViewController.swift */; };
 		FFAB32941BB71A820085AEC8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32921BB71A820085AEC8 /* Main.storyboard */; };
@@ -14,6 +15,24 @@
 		FFAB32991BB71A820085AEC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32971BB71A820085AEC8 /* LaunchScreen.storyboard */; };
 		FFAB32A41BB71A830085AEC8 /* Practica1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB32A31BB71A830085AEC8 /* Practica1Tests.swift */; };
 		FFAB32AF1BB71A830085AEC8 /* Practica1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB32AE1BB71A830085AEC8 /* Practica1UITests.swift */; };
+		FFAB32CB1BB71B960085AEC8 /* ListBullets.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32BD1BB71B960085AEC8 /* ListBullets.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32CC1BB71B960085AEC8 /* ListBullets@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32BE1BB71B960085AEC8 /* ListBullets@2X.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32CD1BB71B960085AEC8 /* Medal.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32BF1BB71B960085AEC8 /* Medal.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32CE1BB71B960085AEC8 /* Medal@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C01BB71B960085AEC8 /* Medal@2X.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32CF1BB71B960085AEC8 /* PaperAirplane.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C11BB71B960085AEC8 /* PaperAirplane.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D01BB71B960085AEC8 /* PaperAirplane@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C21BB71B960085AEC8 /* PaperAirplane@2X.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D11BB71B960085AEC8 /* Setup.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C31BB71B960085AEC8 /* Setup.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D21BB71B960085AEC8 /* Setup@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C41BB71B960085AEC8 /* Setup@2X.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D31BB71B960085AEC8 /* Shoe.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C51BB71B960085AEC8 /* Shoe.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D41BB71B960085AEC8 /* Shoe@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C61BB71B960085AEC8 /* Shoe@2X.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D51BB71B960085AEC8 /* SMS.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C71BB71B960085AEC8 /* SMS.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D61BB71B960085AEC8 /* SMS@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C81BB71B960085AEC8 /* SMS@2X.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D71BB71B960085AEC8 /* TimeMachine.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32C91BB71B960085AEC8 /* TimeMachine.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32D81BB71B960085AEC8 /* TimeMachine@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = FFAB32CA1BB71B960085AEC8 /* TimeMachine@2X.png */; settings = {ASSET_TAGS = (); }; };
+		FFAB32DB1BB71D790085AEC8 /* EstrellaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB32DA1BB71D790085AEC8 /* EstrellaController.swift */; settings = {ASSET_TAGS = (); }; };
+		FFAB32DF1BB71DD60085AEC8 /* CalculadoraController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB32DE1BB71DD60085AEC8 /* CalculadoraController.swift */; settings = {ASSET_TAGS = (); }; };
+		FFAB32E11BB71E880085AEC8 /* CirculoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB32E01BB71E880085AEC8 /* CirculoController.swift */; settings = {ASSET_TAGS = (); }; };
+		FFAB32E41BB720040085AEC8 /* EstrellaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFAB32E31BB720040085AEC8 /* EstrellaView.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +53,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FF74E5591BB7461D00222733 /* CirculoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CirculoView.swift; sourceTree = "<group>"; };
 		FFAB328B1BB71A820085AEC8 /* Practica1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practica1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFAB328E1BB71A820085AEC8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FFAB32901BB71A820085AEC8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +67,24 @@
 		FFAB32AA1BB71A830085AEC8 /* Practica1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Practica1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFAB32AE1BB71A830085AEC8 /* Practica1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practica1UITests.swift; sourceTree = "<group>"; };
 		FFAB32B01BB71A830085AEC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFAB32BD1BB71B960085AEC8 /* ListBullets.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ListBullets.png; sourceTree = "<group>"; };
+		FFAB32BE1BB71B960085AEC8 /* ListBullets@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ListBullets@2X.png"; sourceTree = "<group>"; };
+		FFAB32BF1BB71B960085AEC8 /* Medal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Medal.png; sourceTree = "<group>"; };
+		FFAB32C01BB71B960085AEC8 /* Medal@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Medal@2X.png"; sourceTree = "<group>"; };
+		FFAB32C11BB71B960085AEC8 /* PaperAirplane.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PaperAirplane.png; sourceTree = "<group>"; };
+		FFAB32C21BB71B960085AEC8 /* PaperAirplane@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PaperAirplane@2X.png"; sourceTree = "<group>"; };
+		FFAB32C31BB71B960085AEC8 /* Setup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Setup.png; sourceTree = "<group>"; };
+		FFAB32C41BB71B960085AEC8 /* Setup@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Setup@2X.png"; sourceTree = "<group>"; };
+		FFAB32C51BB71B960085AEC8 /* Shoe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shoe.png; sourceTree = "<group>"; };
+		FFAB32C61BB71B960085AEC8 /* Shoe@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shoe@2X.png"; sourceTree = "<group>"; };
+		FFAB32C71BB71B960085AEC8 /* SMS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SMS.png; sourceTree = "<group>"; };
+		FFAB32C81BB71B960085AEC8 /* SMS@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SMS@2X.png"; sourceTree = "<group>"; };
+		FFAB32C91BB71B960085AEC8 /* TimeMachine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TimeMachine.png; sourceTree = "<group>"; };
+		FFAB32CA1BB71B960085AEC8 /* TimeMachine@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TimeMachine@2X.png"; sourceTree = "<group>"; };
+		FFAB32DA1BB71D790085AEC8 /* EstrellaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EstrellaController.swift; sourceTree = "<group>"; };
+		FFAB32DE1BB71DD60085AEC8 /* CalculadoraController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculadoraController.swift; sourceTree = "<group>"; };
+		FFAB32E01BB71E880085AEC8 /* CirculoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CirculoController.swift; sourceTree = "<group>"; };
+		FFAB32E31BB720040085AEC8 /* EstrellaView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EstrellaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +135,10 @@
 		FFAB328D1BB71A820085AEC8 /* Practica1 */ = {
 			isa = PBXGroup;
 			children = (
+				FFAB32E21BB71FEA0085AEC8 /* Views */,
+				FFAB32D91BB71D3E0085AEC8 /* Controlls */,
+				FFAB32BC1BB71B690085AEC8 /* images */,
 				FFAB328E1BB71A820085AEC8 /* AppDelegate.swift */,
-				FFAB32901BB71A820085AEC8 /* ViewController.swift */,
 				FFAB32921BB71A820085AEC8 /* Main.storyboard */,
 				FFAB32951BB71A820085AEC8 /* Assets.xcassets */,
 				FFAB32971BB71A820085AEC8 /* LaunchScreen.storyboard */,
@@ -123,6 +163,47 @@
 				FFAB32B01BB71A830085AEC8 /* Info.plist */,
 			);
 			path = Practica1UITests;
+			sourceTree = "<group>";
+		};
+		FFAB32BC1BB71B690085AEC8 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				FFAB32BD1BB71B960085AEC8 /* ListBullets.png */,
+				FFAB32BE1BB71B960085AEC8 /* ListBullets@2X.png */,
+				FFAB32BF1BB71B960085AEC8 /* Medal.png */,
+				FFAB32C01BB71B960085AEC8 /* Medal@2X.png */,
+				FFAB32C11BB71B960085AEC8 /* PaperAirplane.png */,
+				FFAB32C21BB71B960085AEC8 /* PaperAirplane@2X.png */,
+				FFAB32C31BB71B960085AEC8 /* Setup.png */,
+				FFAB32C41BB71B960085AEC8 /* Setup@2X.png */,
+				FFAB32C51BB71B960085AEC8 /* Shoe.png */,
+				FFAB32C61BB71B960085AEC8 /* Shoe@2X.png */,
+				FFAB32C71BB71B960085AEC8 /* SMS.png */,
+				FFAB32C81BB71B960085AEC8 /* SMS@2X.png */,
+				FFAB32C91BB71B960085AEC8 /* TimeMachine.png */,
+				FFAB32CA1BB71B960085AEC8 /* TimeMachine@2X.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		FFAB32D91BB71D3E0085AEC8 /* Controlls */ = {
+			isa = PBXGroup;
+			children = (
+				FFAB32901BB71A820085AEC8 /* ViewController.swift */,
+				FFAB32DA1BB71D790085AEC8 /* EstrellaController.swift */,
+				FFAB32DE1BB71DD60085AEC8 /* CalculadoraController.swift */,
+				FFAB32E01BB71E880085AEC8 /* CirculoController.swift */,
+			);
+			name = Controlls;
+			sourceTree = "<group>";
+		};
+		FFAB32E21BB71FEA0085AEC8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FFAB32E31BB720040085AEC8 /* EstrellaView.swift */,
+				FF74E5591BB7461D00222733 /* CirculoView.swift */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,9 +309,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFAB32D21BB71B960085AEC8 /* Setup@2X.png in Resources */,
+				FFAB32D81BB71B960085AEC8 /* TimeMachine@2X.png in Resources */,
+				FFAB32CF1BB71B960085AEC8 /* PaperAirplane.png in Resources */,
+				FFAB32D61BB71B960085AEC8 /* SMS@2X.png in Resources */,
+				FFAB32D01BB71B960085AEC8 /* PaperAirplane@2X.png in Resources */,
 				FFAB32991BB71A820085AEC8 /* LaunchScreen.storyboard in Resources */,
+				FFAB32CD1BB71B960085AEC8 /* Medal.png in Resources */,
+				FFAB32D71BB71B960085AEC8 /* TimeMachine.png in Resources */,
+				FFAB32CC1BB71B960085AEC8 /* ListBullets@2X.png in Resources */,
+				FFAB32D31BB71B960085AEC8 /* Shoe.png in Resources */,
+				FFAB32CB1BB71B960085AEC8 /* ListBullets.png in Resources */,
 				FFAB32961BB71A820085AEC8 /* Assets.xcassets in Resources */,
+				FFAB32D11BB71B960085AEC8 /* Setup.png in Resources */,
 				FFAB32941BB71A820085AEC8 /* Main.storyboard in Resources */,
+				FFAB32CE1BB71B960085AEC8 /* Medal@2X.png in Resources */,
+				FFAB32D41BB71B960085AEC8 /* Shoe@2X.png in Resources */,
+				FFAB32D51BB71B960085AEC8 /* SMS.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,7 +350,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFAB32DF1BB71DD60085AEC8 /* CalculadoraController.swift in Sources */,
 				FFAB32911BB71A820085AEC8 /* ViewController.swift in Sources */,
+				FF74E55A1BB7461D00222733 /* CirculoView.swift in Sources */,
+				FFAB32E41BB720040085AEC8 /* EstrellaView.swift in Sources */,
+				FFAB32DB1BB71D790085AEC8 /* EstrellaController.swift in Sources */,
+				FFAB32E11BB71E880085AEC8 /* CirculoController.swift in Sources */,
 				FFAB328F1BB71A820085AEC8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -481,6 +581,7 @@
 				FFAB32B51BB71A830085AEC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FFAB32B61BB71A830085AEC8 /* Build configuration list for PBXNativeTarget "Practica1Tests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +590,7 @@
 				FFAB32B81BB71A830085AEC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FFAB32B91BB71A830085AEC8 /* Build configuration list for PBXNativeTarget "Practica1UITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +599,7 @@
 				FFAB32BB1BB71A830085AEC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
